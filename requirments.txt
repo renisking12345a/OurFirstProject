@@ -1,0 +1,4 @@
+pandas
+streamlit
+plotly
+These may b accuired by using pip.
